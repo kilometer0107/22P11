@@ -22,7 +22,7 @@
 #define _SERVO_ANGLE_DIFF  80  // Replace with |D - E| degree
 #define _SERVO_SPEED       100  // Servo speed in degrees/second
 
-#define _BANGBANG_RANGE    200  // Duty up and down for bangbang control
+#define _BANGBANG_RANGE    600  // Duty up and down for bangbang control
 
 // Target Distance
 #define _DIST_TARGET    175 // Center of the rail (unit:mm)
